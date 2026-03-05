@@ -25,13 +25,16 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
+- The game purpose is to have a user guess a number and score it based on the number of attempts in took for the user and also whether or not they successfully guessed the number or not.
+- Bugs that I found:
+   1. Weird hints
+   2. Can't start a new game
+   3. Inconsistency difficulty parameters
 - [ ] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- ![Pytest Results](screenshots/pytest_results.png)
 
 ## 🚀 Stretch Features
 
